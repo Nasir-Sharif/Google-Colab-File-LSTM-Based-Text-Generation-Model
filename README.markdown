@@ -84,7 +84,7 @@ nltk.download('punkt_tab')
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/lstm-text-generation.git
+   git clone https://github.com/Nasir-sharif/lstm-text-generation.git
    cd lstm-text-generation
    ```
 
@@ -206,9 +206,11 @@ input_text = "The course follows a monthly"
 ### Accuracy Output
 
 ```python
-Model Accuracy: 85.23%
+Model Accuracy: 95.63%
 ```
 
+## Author Nasir Sharif
+ 
 ## Limitations
 
 - **Dataset Size**: The model is trained on a small dataset, which may limit its generalization to unseen text.
@@ -229,8 +231,3 @@ Model Accuracy: 85.23%
 Contributions are welcome! To contribute:
 
 1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-branch
-   ```
-3. Make your changes and UPDATE: Updated README.md file with improved formatting, headings, subheadings, and links.
